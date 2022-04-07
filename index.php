@@ -32,4 +32,6 @@
     ch’hai fatto nammorà.';
     ?>
 </body>
+<h2> <?= $text; ?> </h2>
+<h2>La lunghezza del testo è: <?= strlen($text) ?> </h2>
 </html>
